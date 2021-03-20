@@ -1,0 +1,4231 @@
+@media screen and (max-width: 1300px) {
+    .properly-maintained-image {
+        width: 480px;
+    }
+    .team-banner-image-info {
+        left: 700px;
+        bottom: -210px;
+    }
+    .our-team-members .vertical-text h3 {
+        left: 880px;
+    }
+    .story-info {
+        margin-right: 100px;
+    }
+    .our-story .meet-team span {
+        margin-top: 0px;
+    }
+    .our-story .meet-team span:before {
+        width: 200px;
+        left: -40px;
+    }
+    .our-story {
+        padding: 50px 0px;
+    }
+    .story-head p:after {
+        left: 160px;
+        top: 130px;
+        width: 150px;
+    }
+    .blog-content span:before {
+        left: 30px;
+    }
+    .follow-us-heading h2:after {
+        width: 140px;
+    }
+    .blog-catagories h2:after {
+        width: 120px;
+    }
+    .popular-posts h2:after {
+        width: 110px;
+    }
+    .newsletter h2:after {
+        width: 120px;
+    }
+    .facebook-blog h2:after {
+        width: 140px;
+    }
+    .side-bar {
+        padding: 50px 20px 50px 20px;
+    }
+    .follow-us-heading .follow-social-icons ul li {
+        margin: 5px;
+    }
+    .background:before {
+        margin: -50px 0px -35px 0px;
+    }
+    .contact-us .contact-social-icons:before {
+        right: 0px;
+    }
+    .property-search {
+        padding: 40px 22px;
+        margin-left: 10px;
+    }
+    .property-search .location p {
+        font-size: 12px;
+    }
+    .blog-content2 h4 {
+        font-size: 30px;
+    }
+    .blog-content2 span:before {
+        left: 0px;
+    }
+    .news-content span:before {
+        left: 0;
+    }
+    .services .card {
+        padding: 40px 34px 60px 34px;
+    }
+    .news .news-content h4:after {
+        bottom: 0px;
+    }
+    .testimonial:before {
+        right: 50px;
+    }
+    .news-content {
+        padding: 0 90px 0 0px;
+    }
+    .news .slick-nexts.slick-arrow {
+        bottom: -20px;
+    }
+    .news .slick-prevs.slick-arrow {
+        bottom: -20px;
+    }
+    .property-contact-card {
+        margin-left: 30px;
+    }
+    .property-contact-box {
+        padding: 10px;
+    }
+    .property-contact-box span {
+        font-size: 18px;
+    }
+    .discription-recent-property {
+        margin-left: 30px;
+    }
+    .discription-our-agent {
+        margin-left: 30px;
+    }
+    ul.thumb-nav.slick-initialized.slick-slider {
+    height: 70px;
+    }
+
+
+}
+
+@media screen and (max-width: 1200px) {
+    /*-------------------------Northseventeen-page-start-----------------------------*/
+    .about-us .social-icon {
+        left: 20px;
+    }
+    .about-us h2 {
+        padding-bottom: 30px;
+        font-size: 52px;
+    }
+    .about-detail {
+        padding-top: 60px;
+    }
+    .about-us .about-image {
+        width: 535px;
+    }
+    .about-detail h6:after {
+        right: 55px;
+    }
+    .vertical-text h3 {
+        top: 480px;
+        left: -175px;
+    }
+    .blogs {
+        padding-top: 140px;
+    }
+    .blog-content {
+        margin: 20px 0px;
+    }
+    .blog-image img {
+        height: 500px;
+    }
+    .blog-image {
+        height: 100%;
+    }
+    .blog-content span:before {
+        left: 30px;
+    }
+    .blog-content2 {
+        margin: 40px 0px;
+    }
+    .blog-image2 img {
+        height: 540px;
+    }
+    .blog-content2 span:before {
+        left: 10px;
+    }
+    .before-color:before {
+        top: 46%;
+    }
+    .blog-content2 {
+        padding: 0px 70px 0px 10px;
+    }
+    .blog-image {
+        padding: 0px 10px 0px 10px;
+    }
+    .blog-content {
+        padding-right: 90px;
+    }
+    .featured-listing {
+        padding: 0px;
+    }
+    .news .vertical-text h2 {
+        left: -180px;
+        bottom: -300px;
+    }
+    .news .news-image img {
+        width: 100%;
+        height: 620px;
+    }
+    .news .news-image {
+        padding: 0px 0px 0px 0px;
+        width: 90%;
+    }
+    .news:before {
+        top: -60px;
+        bottom: 60px;
+    }
+    .news {
+        padding: 0px 0px 100px 0px;
+    }
+    .news .news-content h4:after {
+        bottom: 0px;
+    }
+    .card-head img {
+        height: 50px;
+    }
+    .testimonial .card {
+        margin-top: 0;
+    }
+    .testimonial .slick-prevs.slick-arrow {
+        bottom: 70px;
+    }
+    .testimonial .slick-nexts.slick-arrow {
+        bottom: 70px;
+    }
+    .testimonial-info p {
+        padding: 80px 0px 20px 40px;
+    }
+    .testimonial-info h3 {
+        padding-left: 40px;
+    }
+    .testimonial-info-image {
+        position: absolute;
+        top: 155px;
+        left: 60px;
+    }
+    .contact-wraper {
+        padding-right: 15px;
+    }
+    .vertical-text h3:after {
+        width: 260px;
+    }
+    .blog-image2 {
+        padding: 0 90px 0 0px;
+    }
+    .news .slick-nexts.slick-arrow {
+        bottom: 0px;
+    }
+    .news .slick-prevs.slick-arrow {
+        bottom: 0;
+    }
+    .footer .home-social a i {
+        font-size: 30px;
+        margin: 0 16px;
+    }
+    .footer .home-social h2 {
+        font-size: 34px;
+    }
+    .footer p {
+        padding-right: 30px;
+    }
+    .news-content span:before {
+        left: 0;
+        width: 200px;
+    }
+    /*-------------------------About-page-start-----------------------------*/
+    .services {
+        padding: 50px 0px;
+    }
+    .story-info {
+        margin-right: 137px;
+        padding: 30px 30px 0px 30px;
+    }
+    .story-image img {
+        height: 100%;
+        width: auto;
+        object-fit: cover;
+    }
+    .story-image {
+        padding: 0 60px;
+        height: 500px;
+        width: auto;
+    }
+    .our-story .story-head p {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .story-head p:after {
+        left: 190px;
+        top: 64px;
+        height: 1px;
+    }
+    .our-story .story-wraper {
+        padding: 30px 40px;
+    }
+    .story-invert-description span {
+        line-height: 35px;
+    }
+    .our-story .meet-team span:before {
+        width: 200px;
+        top: 16px;
+        left: -30px;
+    }
+    .our-story .meet-team span {
+        margin-top: 50px;
+    }
+    .our-story {
+        padding: 50px 0px;
+    }
+    .our-approach {
+        padding: 50px 0px;
+    }
+    .our-approach .approach-image2 {
+        bottom: 75px;
+        left: 82px;
+        right: -20px;
+    }
+    .subscribe .subscribe-info .button-group {
+        padding: 40px 10px;
+    }
+    .subscribe-info span {
+        font-size: 19px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 17px;
+    }
+    .our-team {
+        padding: 10px 0px 60px 0px;
+    }
+    .our-team .card {
+        margin: 0 40px;
+    }
+    .our-approach:before {
+        bottom: 50px;
+    }
+    /*-------------------------Blog-page-start-----------------------------*/
+    .blog-image {
+        padding: 0px 0px 0px 0px;
+        height: 540px;
+    }
+    .blog-content {
+        padding: 0 100px 0 0px;
+        margin: 40px 0px;
+    }
+    .blog-content2 {
+        padding: 0px 0px 0px 53px;
+        margin: 50px 0px;
+    }
+    .blog-image2 {
+        padding: 0 80px 0 0px;
+        height: 540px;
+    }
+    .blog-content2 span:before {
+        left: 50px;
+    }
+    .resident-blog-content span:before {
+        left: 80px;
+    }
+    .resident-blog-content2 h4:after {
+        bottom: 0;
+    }
+    .resident-blog-content h4:after {
+        top: 95px;
+    }
+    .subscribe .subscribe-info .button-group input {
+        margin-right: 50px;
+    }
+    .resident-blogs {
+        padding: 60px 0px;
+    }
+    .news-image {
+        height: 540px;
+        width: 100%;
+        position: relative;
+        bottom: -60px;
+    }
+    .richest-resident {
+        margin-bottom: 50px;
+    }
+    .resident-blog-content2 h4 {
+        margin-top: 60px;
+    }
+    .resident-blog-content2 span:before {
+        width: 200px;
+    }
+    .richest-resident h4:after {
+        bottom: 0px;
+    }
+    /*-------------------------blog-discription-page-start-----------------------------*/
+    .follow-social-icons .fa-facebook {
+        padding: 10px;
+    }
+    .follow-social-icons .fa-twitter {
+        padding: 10px;
+    }
+    .follow-social-icons .fa-youtube {
+        padding: 10px;
+    }
+    .follow-social-icons .fa-instagram {
+        padding: 10px;
+    }
+    .follow-social-icons .fa-linkedin {
+        padding: 10px;
+    }
+    .follow-us-heading .follow-social-icons ul li {
+        margin: 5px;
+    }
+    .follow-us-heading h2:after {
+        width: 95px;
+    }
+    .blog-catagories h2:after {
+        width: 95px;
+    }
+    .popular-posts h2:after {
+        width: 95px;
+    }
+    .newsletter h2:after {
+        width: 95px;
+    }
+    .facebook-blog h2:after {
+        width: 95px;
+    }
+    .join-team-blog .btn {
+        padding: 6px 6px;
+        font-size: 18px;
+        letter-spacing: 0px;
+    }
+    .join-team-blog h2 {
+        font-size: 26px;
+    }
+    .home-shows-search input {
+        width: 83%;
+    }
+    .flora-content span {
+        padding: 0 3px;
+        margin: 0px 4px;
+        font-size: 15px;
+    }
+    .popular-posts .card .card-body p {
+        letter-spacing: 0px;
+        line-height: 23px;
+    }
+    /*-------------------------buy-us-page-start-----------------------------*/
+    .subscribe .subscribe-info .button-group {
+        padding: 25px;
+    }
+    .subscribe .change {
+        padding: 7px 40px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 15px;
+    }
+    /*-------------------------Contact-us-page-start-----------------------------*/
+    .contact-us .contact-social-icons:before {
+        left: 210px;
+    }
+    .background:before {
+        left: -25px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 16px;
+        margin: 0px;
+    }
+    .subscribe .btn {
+        font-size: 17px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 16px;
+    }
+    /*-------------------------Featured-property-listing-page-start-----------------------------*/
+    .listing-info h5 {
+        font-size: 15px;
+    }
+    .listing-info h5 span {
+        font-size: 15px;
+    }
+    .listing-info {
+        padding: 10px;
+    }
+    .property-search {
+        padding: 20px 20px;
+        margin-left: 0;
+    }
+    .location {
+        padding: 10px;
+    }
+    .listing-image img {
+        height: 420px;
+    }
+    .recent-property .card .card-body p {
+        line-height: 20px;
+    }
+    .recent-property {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+    .Featured-listing {
+        padding: 80px;
+    }
+    .our-agent.underline {
+        margin-top: 40px;
+        margin-left: 0;
+    }
+    .our-agent .card .card-body span {
+        font-size: 15px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 10px;
+    }
+    /*-------------------------property-discription-page--------------------------*/
+    .property-contact-box {
+        padding: 20px;
+    }
+    .property-contact-card p {
+        margin-top: 20px;
+    }
+    .property-contact-box span {
+        font-size: 13px;
+    }
+    .property-contact-card i {
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+    }
+    .property-contact-card {
+        margin-left: 20px;
+    }
+    .discription-recent-property {
+        margin-left: 20px;
+    }
+    .discription-our-agent {
+        margin-left: 20px;
+    }
+    .property-contact-box h5 {
+        font-size: 17px;
+    }
+    .discription-recent-property .card-body p {
+        letter-spacing: 0;
+    }
+    .discription-our-agent .card-body span {
+        font-size: 15px;
+    }
+    .discription-recent-property .card-body span {
+        font-size: 15px;
+    }
+    ul.thumb-nav.slick-initialized.slick-slider {
+    height: 68px;
+    }
+
+    /*-------------------------join-our-team-page-start-----------------------------*/
+    .join-head h2 {
+        font-size: 40px;
+    }
+    .join-north-seventeen .join-team-image h3 {
+        font-size: 38px;
+    }
+    /*-------------------------sell-page-start-----------------------------*/
+    .sell-home-slicer .card {
+        padding: 19px 20px;
+        margin: 28px 20px;
+    }
+    .sell-home-slicer .card .card-body h5 {
+        font-size: 18px;
+    }
+    .subscribe .subscribe-info .button-group {
+        padding: 30px;
+    }
+    .subscribe .change {
+        padding: 7px 36px;
+    }
+    /*-------------------------Team-page-start-----------------------------*/
+    .team-banner-image-info {
+        left: 600px;
+    }
+    .our-team-members .vertical-text h3 {
+        left: 850px;
+    }
+    .properly-maintained-image {
+        width: 480px;
+    }
+    .our-team-members .card .card-body {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .our-team-members .card .card-body {
+        padding: 5px;
+    }
+    .our-team-members .vertical-text h3 {
+        top: -170px;
+    }
+    .our-team-members .card .member-image {
+        height: 260px;
+    }
+    .team-banner-image-info {
+        padding: 25px;
+        left: 670px;
+    }
+    /*-------------------------Testimonial-page-start-----------------------------*/
+    .testimonial-slicer .card {
+        padding: 40px 10px;
+    }
+    .testimonial-slicer .card .card-info {
+        padding: 10px 0px;
+    }
+    .testimonial-slicer .card .card-info p {
+        font-size: 15px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 7px;
+    }
+    .subscribe-info span {
+        font-size: 17px;
+    }
+    .testimonial-slicer-info p {
+        padding-bottom: 50px;
+    }
+    .testimonial-slicer {
+        padding: 40px 0px;
+    }
+    .footer .footer-nav ul li {
+    margin: 0 50px;
+}
+
+}
+
+@media screen and (max-width:1180px) {
+    /*-------------------------Northseventeen-page-start-----------------------------*/
+    .about-detail p {
+        padding-right: 15px;
+    }
+    .blogs h4 {
+        font-size: 34px;
+    }
+    .news-content span:before {
+        left: 30px;
+    }
+    .news .slick-nexts.slick-arrow {
+        bottom: -40px;
+    }
+    .news .slick-prevs.slick-arrow {
+        bottom: -40px;
+    }
+    .slick-slider {
+        height: auto;
+    }
+    /*-------------------------About-page-start-----------------------------*/
+    .story-image {
+        padding: 0 40px;
+    }
+    .story-info {
+        margin-right: 105px;
+    }
+    .story-info-main p {
+        margin-left: 8px;
+    }
+    .our-story .meet-team span {
+        margin-top: 40px;
+    }
+    .our-approach .approach-image1 {
+        left: -30px;
+    }
+    /*-------------------------blog-page-start-----------------------------*/
+    .richest-resident h4:after {
+        bottom: 0;
+    }
+    .blog-content span:before {
+        left: 20px;
+        width: 240px;
+    }
+    .blog-content2 span:before {
+        left: 30px;
+        width: 240px;
+    }
+    .resident-blog-content2 h4 {
+        margin-top: 30px;
+    }
+    .resident-blog-content h4 {
+        margin-top: 40px;
+    }
+    .resident-blogs {
+        padding: 20px 0px;
+    }
+    /*-------------------------blog-discription-page-start-----------------------------*/
+    .popular-posts h2:after {
+        width: 70px;
+    }
+    .follow-us-heading h2:after {
+        width: 70px;
+    }
+    .newsletter h2:after {
+        width: 70px;
+    }
+    .facebook-blog h2:after {
+        width: 70px;
+    }
+    .join-team-blog .btn {
+        margin: 0 8px;
+    }
+    .join-team-blog h2 {
+        font-size: 22px;
+        margin: 15px 0px;
+    }
+    .flora-park-head h4 {
+        font-size: 34px;
+    }
+    .home-blog-para p {
+        margin-top: 10px;
+    }
+    .home-shows {
+        padding-bottom: 70px;
+    }
+    .blog-catagories h2:after {
+        width: 70px;
+    }
+    .popular-posts .card img {
+        height: 85px;
+        width: 85px;
+        object-fit: cover;
+    }
+    .flora-content p {
+        font-size: 17px;
+    }
+    /*-------------------------Contact-us-page-start-----------------------------*/
+    .contact-us .contact-social-icons:before {
+        left: 175px;
+        right: -45px;
+    }
+    .background:before {
+        left: 0px;
+        right: 0px;
+    }
+    /*-------------------------Featured-Property-listing-page-start-----------------------------*/
+    .recent-property .card .card-body p {
+        letter-spacing: 0;
+    }
+    .Featured-listing {
+        padding: 60px;
+    }
+    .Featured-listing {
+        padding: 40px;
+    }
+    /*-------------------------Property-discription-page-start-----------------------------*/
+    .property-contact-box {
+        padding: 10px;
+    }
+    .property-contact-card .btn {
+        padding: 6px 0px;
+        margin: 10px 0px;
+    }
+    .discription-recent-property {
+        margin-top: 40px;
+    }
+    .discription-recent-property .card-body p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .discription-our-agent .card-body p {
+        font-size: 14px;
+    }
+    .discription-our-agent .card-body span {
+        font-size: 13px;
+    }
+    ul.thumb-nav.slick-initialized.slick-slider {
+    height: 60px;
+    }
+
+    /*-------------------------Team-page-start-----------------------------*/
+    .properly-maintained-image {
+        width: 430px;
+    }
+    .team-banner-image-info h5 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .team-banner-image-info {
+        padding: 20px;
+    }
+    .team-banner-image-info {
+        padding: 25px;
+        left: 680px;
+    }
+    .our-team-members .vertical-text h3 {
+        top: 50px;
+        left: 770px;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    /*-------------------------Northseventeen-page-start-----------------------------*/
+    .blogs {
+        padding-top: 60px;
+    }
+    .blogs h4 {
+        font-size: 33px;
+    }
+    .blog-content2 {
+        padding: 0px 0px 0px 10px;
+    }
+    .blog-content span:before {
+        left: 100px;
+    }
+    .blog-content2 span:before {
+        left: 70px;
+    }
+    .blog-content {
+        padding-right: 0;
+    }
+    .blog-image2 {
+        padding: 0 0px 0 0px;
+    }
+    .blog-image2 img {
+        width: 100%;
+        object-fit: cover;
+    }
+    .blog-image img {
+        width: 100%;
+    }
+    .vertical-text h3 {
+        left: -185px;
+    }
+    .news-content {
+        padding: 0;
+    }
+    .testimonial:before {
+        right: 70px;
+    }
+    .about-us .about-image {
+        width: 505px;
+    }
+    /*-------------------------About-us-page-start-----------------------------*/
+    .our-story .story-head p {
+        font-size: 28px;
+    }
+    .story-info-main span h3 {
+        font-size: 26px;
+    }
+    .our-story .meet-team span {
+        margin-top: 30px;
+    }
+    .our-story .meet-team span:before {
+        width: 160px;
+    }
+    .our-story .story-wraper {
+        padding: 20px 40px;
+    }
+    .story-image {
+        padding: 0 40px 0 0;
+    }
+    .story-info {
+        margin-right: 55px;
+    }
+    .story-info {
+        top: 400px;
+    }
+    .footer h2 {
+        font-size: 36px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .footer-copy-right p {
+        padding: 40px 0px 40px 0px;
+        margin: 0 60px;
+    }
+    .footer-nav {
+        padding: 50px 0px;
+    }
+    .our-team h2 {
+        margin-bottom: 40px;
+        margin-left: 40px;
+    }
+    .our-team .slick-nexts.slick-arrow {
+        top: -130px;
+    }
+    .our-team .slick-prevs.slick-arrow {
+        top: -130px;
+    }
+    .our-approach:before {
+        left: 0px;
+        right: 54%;
+    }
+    /*-------------------------blog-page-start-----------------------------*/
+    /*-------------------------blog-discription-page-start-----------------------------*/
+    .popular-posts h2:after {
+        width: 60px;
+    }
+    .join-team-blog h2 {
+        font-size: 22px;
+    }
+    .join-team-blog .btn {
+        padding: 6px 3px;
+        font-size: 16px;
+    }
+    .home-shows-search input {
+        width: 81%;
+    }
+    .flora-content p {
+        font-size: 16px;
+    }
+    .flora-park-head h4 {
+        font-size: 26px;
+    }
+    .follow-us-heading .follow-social-icons ul li .fa {
+        font-size: 16px;
+    }
+    .join-team-blog {
+        padding: 20px;
+    }
+    .blog-catagories h2 {
+        font-size: 22px;
+    }
+    .newsletter h2 {
+        font-size: 22px;
+    }
+    .blog-catagories h2:after {
+        left: 120px;
+    }
+    .blog-catagories p {
+        width: 82%;
+        font-size: 18px;
+    }
+    .follow-us-heading h2 {
+        font-size: 22px;
+    }
+    .follow-us-heading h2:after {
+        left: 120px;
+    }
+    .popular-posts h2 {
+        font-size: 22px;
+    }
+    .popular-posts h2:after {
+        left: 145px;
+    }
+    .side-bar {
+        padding: 50px 20px 50px 20px;
+    }
+    .facebook-blog h2 {
+        font-size: 22px;
+    }
+    /*-------------------------Buy-us-page-start-----------------------------*/
+    .sell-home-bg {
+        padding: 60px 100px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 18px;
+    }
+    .subscribe .change {
+        padding: 7px 23px;
+    }
+    /*-------------------------Contact-us-page-start-----------------------------*/
+    .contact-us .contact-social-icons:before {
+        left: 155px;
+        right: -25px;
+    }
+    .background:before {
+        left: 0px;
+        right: 0px;
+    }
+    .contact-us .contact-social-icons:before {
+        right: -10px;
+    }
+    /*-------------------------Featured-Property-listing-page-start-----------------------------*/
+    .our-agent.underline {
+        margin-top: 20px;
+    }
+    .recent-property {
+        margin-top: 20px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 12px;
+    }
+    /*-------------------------Property-discription-page-start-----------------------------*/
+    .discription-recent-property .card-body p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .discription-recent-property .card-body span {
+        font-size: 12px;
+    }
+    .discription-our-agent .card-body p {
+        font-size: 12px;
+    }
+    .discription-our-agent .card-body span {
+        font-size: 11px;
+    }
+    .property-contact-box h5 {
+        font-size: 14px;
+    }
+    .property-contact-box h5:after {
+        top: 25px;
+    }
+    ul.thumb-nav.slick-initialized.slick-slider {
+    height: 55px;
+    }
+
+    /*-------------------------Team-page-start-----------------------------*/
+    .our-team-members .vertical-text h3 {
+        top: 50px;
+        left: 750px;
+    }
+    .team-banner-image-info {
+        padding: 25px;
+        left: 640px;
+    }
+    .our-team-members .vertical-text h3 {
+        left: 710px;
+    }
+    /*-------------------------Sell-page-start-----------------------------*/
+    .properly-maintained-image {
+        width: 390px;
+        height: 550px;
+    }
+    .properly-maintained span p {
+        margin: 0px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    /*-------------------------Northseventeen-page-start-----------------------------*/
+    .about-us .about-image {
+        width: 485px;
+    }
+    .blog-content span:before {
+        left: 70px;
+    }
+    .blog-content2 span:before {
+        left: 40px;
+    }
+    .news-content span:before {
+        left: 40px;
+    }
+    .news .slick-nexts.slick-arrow {
+        bottom: -40px;
+    }
+    .news .slick-prevs.slick-arrow {
+        bottom: -40px;
+    }
+    .testimonial:before {
+        right: 30px;
+    }
+    .about-detail {
+        padding-top: 270px;
+    }
+    .about-us {
+        padding-bottom: 40px;
+    }
+    .vertical-text h3:after {
+        top: 40px;
+        left: 310px;
+    }
+    .vertical-text h3 {
+        font-size: 60px;
+        left: -170px;
+    }
+    .news .vertical-text h2 {
+        font-size: 70px;
+    }
+    .news .vertical-text h2:before {
+        width: 210px;
+        left: 441px;
+        top: 50px;
+    }
+    .footer-nav {
+        padding: 20px;
+    }
+    .services .card {
+        padding: 40px 33px 60px 33px;
+    }
+    .slick-slider {
+        height: auto;
+    }
+    .testimonial .slick-slider {
+        height: 500px;
+    }
+    /*-------------------------About-us-page-start-----------------------------*/
+    .our-story .story-head p {
+        font-size: 25px;
+    }
+    .story-info-main p {
+        font-size: 22px;
+    }
+    .story-image {
+        padding: 0 20px 0 0;
+    }
+    .story-invert-description p {
+        font-size: 22px;
+    }
+    .our-story .meet-team span:before {
+        width: 130px;
+    }
+    .our-approach {
+        padding: 30px 0px;
+    }
+    .our-approach .approach-image1 {
+        left: -30px;
+    }
+    .our-approach:before {
+        right: 51%;
+        bottom: 40px;
+    }
+    .vertical-text h3 {
+        top: 410px;
+        left: -160px;
+    }
+    /*-------------------------blog-page-start-----------------------------*/
+    .vertical-text h3 {
+        left: -174px;
+    }
+    .resident-blog-content h4 {
+        font-size: 33px;
+    }
+    .resident-blog-content2 h4 {
+        font-size: 33px;
+    }
+    .resident-blogs p {
+        padding: 30px 0px 10px 0px;
+    }
+    .richest-resident h4 {
+        font-size: 33px;
+    }
+    .richest-resident h4:after {
+        bottom: : 0px;
+    }
+    .resident-blog-content2 h4:after {
+        bottom: 0;
+    }
+    .resident-blog-content h4:after {
+        top: 80px;
+    }
+    .resident-blog-content span:before {
+        left: 40px;
+    }
+    /*-------------------------blog-discription-page-start-----------------------------*/
+    .flora-content p {
+        font-size: 14px;
+    }
+    .banner-blog-content {
+        padding: 35px 50px;
+    }
+    .newsletter h2:after {
+        width: 50px;
+    }
+    .follow-us-heading h2:after {
+        width: 50px;
+    }
+    .blog-catagories h2:after {
+        width: 50px;
+    }
+    .popular-posts h2:after {
+        width: 50px;
+    }
+    .facebook-blog h2:after {
+        width: 50px;
+    }
+    .follow-us-heading .follow-social-icons ul li .fa {
+        font-size: 14px;
+    }
+    .subscribe .subscribe-info form input {
+        margin-right: 45px;
+    }
+    .popular-posts .card .card-body p {
+        font-size: 15px;
+    }
+    .show-homes-offers-head p {
+        font-size: 28px;
+    }
+    .footer ul li a {
+        font-size: 16px;
+    }
+    .footer-nav a {
+        font-size: 17px;
+    }
+    .footer-copy-right p {
+        font-size: 17px;
+    }
+    .subscribe .subscribe-info h2:after {
+        bottom: -10px;
+    }
+    .facebook-blog h2:after {
+        width: 80px;
+        left: 110px;
+    }
+    .newsletter h2:after {
+        width: 70px;
+        left: 120px;
+    }
+    .follow-us-heading h2:after {
+        width: 70px;
+    }
+    /*-------------------------Contact-us-page-start-----------------------------*/
+    .contact-us .contact-social-icons:before {
+        right: 10px;
+    }
+    .background:before {
+        left: 0px;
+        right: 0px;
+    }
+    /*-------------------------Featured-property-listing-page-start-----------------------------*/
+    .Featured-listing {
+        padding: 30px;
+    }
+    .listing-info h5 {
+        font-size: 14px;
+    }
+    .underline h3 {
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .property-search {
+        padding: 40px 40px;
+    }
+    .join-north-seventeen .join-team-image h3 {
+        font-size: 28px;
+    }
+    /*-------------------------Team-page-start-----------------------------*/
+    .our-team-members .vertical-text h3 {
+        left: 670px;
+    }
+    .vertical-text h3:after {
+        top: 60px;
+        left: 450px;
+    }
+    .team-banner-image-info {
+        padding: 25px;
+        left: 600px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    /*-------------------------Northseventeen-page-start-----------------------------*/
+    .about-us h2 {
+        padding-bottom: 10px;
+        font-size: 35px;
+    }
+    .about-us h6 {
+        font-size: 35px;
+    }
+    .about-detail {
+        padding-top: 190px;
+    }
+    .about-detail h6:after {
+        right: -25px;
+        top: 25px;
+    }
+    .about-detail p {
+        padding-right: 0;
+    }
+    .about-us .about-image {
+        width: 375px;
+    }
+    .services .card {
+        padding: 19px 19px 19px 19px;
+    }
+    .services .card h5 {
+        margin: 20px 0px;
+        font-size: 19px;
+    }
+    .blog-content2 span:before {
+        left: 120px;
+        width: 160px;
+    }
+    .blogs h4 {
+        font-size: 28px;
+    }
+    .blog-content span:before {
+        left: 10px;
+        width: 220px;
+    }
+    .featured-listing .slick-nexts.slick-arrow {
+        right: -30px;
+    }
+    .featured-listing .slick-prevs.slick-arrow {
+        right: 0px;
+    }
+    .news-content span:before {
+        left: 20px;
+        width: 160px;
+    }
+    .news .slick-nexts.slick-arrow {
+        bottom: -40px;
+    }
+    .news .slick-prevs.slick-arrow {
+        bottom: -40px;
+    }
+    .vertical-text h3 {
+        left: -180px;
+        font-size: 70px;
+    }
+    .vertical-text h3:after {
+        top: 50px;
+        left: 362px;
+    }
+    .slide-image img {
+        margin: 0 auto;
+    }
+    .card.slick-slide.slick-current.slick-active.slick-center {
+        transform: scaleY(1.0);
+    }
+    .feature-info {
+        padding: 10px 25px;
+    }
+    .feature-info h5 {
+        font-size: 16px;
+    }
+    .about-us .social-icon {
+        top: 20px;
+    }
+    .slide-image {
+        height: auto;
+    }
+    .testimonial:before {
+        right: 30px;
+        left: 50%;
+        top: 107px;
+    }
+    .testimonial-info-head p {
+        font-size: 35px;
+        line-height: 44px;
+        padding-left: 0;
+    }
+    .testimonial-info-head p:after {
+        top: 100px;
+        left: 0;
+    }
+    .testimonial-info p {
+        padding: 50px 0px 0px 0px;
+        line-height: 30px;
+    }
+    .testimonial-info-image {
+        left: 10px;
+    }
+    .testimonial-info-image {
+        top: 110px;
+    }
+    .testimonial .card {
+        padding: 10px;
+    }
+    .testimonial .card-body {
+        padding: 10px 0px;
+    }
+    .testimonial-info p {
+        font-size: 21px;
+    }
+    .testimonial-info h3 {
+        padding-left: 20px;
+        padding-left: 20px;
+    }
+    .testimonial {
+        padding: 0px;
+    }
+    .news .vertical-text h2 {
+        left: -180px;
+        bottom: -300px;
+        font-size: 70px;
+    }
+    .news .vertical-text h2:before {
+        width: 220px;
+        height: 3px;
+        left: 430px;
+        top: 50px;
+    }
+    .news-content {
+        padding: 0;
+        margin-top: 0;
+    }
+    .news .news-image {
+        width: 100%;
+    }
+    .contact-form {
+        background-color: black;
+        padding: 20px 10px;
+    }
+    .footer:before {
+        top: -90px;
+    }
+    .testimonial .slick-nexts.slick-arrow {
+        bottom: 30px;
+    }
+    .testimonial .slick-prevs.slick-arrow {
+        bottom: 30px;
+    }
+    .footer .home-social a i {
+        margin: 0 3px;
+    }
+    .footer p {
+        padding-right: 0;
+    }
+    .footer-copy-right p {
+        margin: 0;
+    }
+    .banner-info h1 {
+        font-size: 45px;
+    }
+    .footer-copy-right p {
+        padding: 30px 0px 30px 0px;
+    }
+    .footer-nav {
+        padding: 35px 0px;
+    }
+    .footer-nav a {
+        font-size: 20px;
+    }
+    .services .card {
+        margin-bottom: 10px;
+    }
+    .head .navbar ul li a {
+        font-size: 13px;
+        margin: 0 5px;
+    }
+    .featured-listing .slick-slider {
+        height: 570px;
+    }
+    .testimonial .slick-nexts.slick-arrow {
+        bottom: 110px;
+    }
+    .testimonial .slick-prevs.slick-arrow {
+        bottom: 110px;
+    }
+    .featured-listing .slick-slider {
+        height: 540px;
+    }
+    .footer .footer-nav ul li {
+    margin: 0 34px;
+    }
+
+    /*-------------------------About-us-page-start-----------------------------*/
+    .our-story .story-head p {
+        font-size: 24px;
+    }
+    .our-story .story-head p {
+        line-height: 34px;
+    }
+    .story-head p:after {
+        left: 170px;
+        top: 52px;
+    }
+    .story-invert-description p {
+        font-size: 21px;
+    }
+    .our-story .gap {
+        margin: 10px 0px;
+    }
+    .our-approach .approach-info h2 {
+        font-size: 40px;
+        line-height: 10px;
+    }
+    .our-approach .approach-info h2:after {
+        bottom: -10px;
+    }
+    .our-approach .approach-image1 {
+        left: -80px;
+    }
+    .our-approach .approach-image2 {
+        bottom: 345px;
+        left: 96px;
+        right: -31px;
+    }
+    .our-approach img {
+        object-fit: cover;
+    }
+    .our-approach .approach-image2 {
+        display: none;
+    }
+    .our-approach .approach-image1 {
+        left: 0;
+        right: 0;
+    }
+    .our-approach img {
+        object-fit: cover;
+        width: 100%;
+        height: 400px;
+    }
+    .our-approach .approach-info {
+        padding: 30px 0 0 0px;
+    }
+    .our-approach:before {
+        right: 0;
+        bottom: 0;
+    }
+    .our-story .meet-team span:before {
+        width: 110px;
+    }
+    .services .card h5 {
+        margin: 10px 0px;
+        ;
+    }
+    .subscribe h2 {
+        font-size: 35px;
+    }
+    .subscribe-info {
+        margin-top: 50px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 10px;
+        font-size: 14px;
+    }
+    .subscribe-info span {
+        font-size: 13px;
+    }
+    .footer h2 {
+        font-size: 35px;
+    }
+    .footer p {
+        padding-top: 20px;
+    }
+    .our-team h2 {
+        font-size: 40px;
+    }
+    .our-team h2:after {
+        left: 350px;
+    }
+    .our-team .slick-prevs.slick-arrow {
+        top: -120px;
+    }
+    .our-team .slick-nexts.slick-arrow {
+        top: -120px;
+    }
+    /*-------------------------blog-page-start-----------------------------*/
+    .resident-blog-image2 img {
+        width: 100%;
+        height: 100%;
+    }
+    .resident-blog-image2 {
+        padding-left: 0;
+        height: 540px;
+        width: 100%;
+    }
+    .richest-resident .card .card-body {
+        padding: 100px 0 0 0;
+    }
+    .richest-resident .card span a {
+        justify-content: start;
+    }
+    .richest-resident .card span a:before {
+        left: 120px;
+    }
+    .resident-info p {
+        padding-bottom: 0;
+    }
+    .resident-blog-content span:before {
+        left: 120px;
+    }
+    .subscribe .subscribe-info form input {
+        margin-right: 0;
+    }
+    .resident-blog-content h4 {
+        font-size: 25px;
+    }
+    .resident-blog-content2 h4 {
+        font-size: 25px;
+    }
+    .richest-resident h4 {
+        font-size: 25px;
+    }
+    .blogs h4 {
+        font-size: 25px;
+    }
+    .blogs .blog-content h4:after {
+        bottom: 0px;
+    }
+    .blog-content2 h4:after {
+        bottom: -10px;
+    }
+    .blog-content2 p {
+        padding: 20px 0;
+    }
+    .blogs .blog-content2 span a {
+        text-align: left;
+    }
+    .blogs .vertical-text h3 {
+        left: 80px;
+        font-size: 60px;
+        top: -80px;
+    }
+    .blogs .vertical-text h3 {
+        transform: rotatez(0deg);
+    }
+    .blogs .blog-content span:before {
+        left: 120px;
+        width: 200px;
+    }
+    .richest-resident h4:after {
+        bottom: 0px;
+    }
+    .resident-blog-content2 h4:after {
+        bottom: 0;
+    }
+    .resident-blogs p {
+        padding: 20px 0px 10px 0px;
+    }
+    .resident-blog-content a {
+        justify-content: start;
+    }
+    .resident-blog-content h4:after {
+        top: 35px;
+    }
+    .vertical-text h3 {
+        left: -180px;
+        font-size: 60px;
+        top: 370px;
+    }
+    .vertical-text h3:after {
+        top: 45px;
+        left: 310px;
+    }
+    .blog-content span a {
+        text-align: left;
+    }
+    /*-------------------------blog-discription-page-start-----------------------------*/
+    .flora-content p {
+        font-size: 10px;
+    }
+    .home-shows {
+        padding-bottom: 50px;
+    }
+    .follow-us-heading .follow-social-icons ul li .fa {
+        font-size: 10px;
+    }
+    .follow-us-heading .follow-social-icons ul li {
+        margin: 3px;
+    }
+    .newsletter h2:after {
+        width: 110px;
+        top: 100%;
+        left: 0px;
+    }
+    .facebook-blog h2:after {
+        width: 110px;
+        top: 100%;
+        left: 0px;
+    }
+    .follow-us-heading h2:after {
+        width: 110px;
+        top: 100%;
+        left: 0px;
+    }
+    .join-team-blog h2 {
+        font-size: 20px;
+    }
+    .join-team-blog {
+        padding: 10px;
+    }
+    .popular-posts .card .card-body p {
+        font-size: 13px;
+    }
+    .flora-park-head h4 {
+        font-size: 22px;
+    }
+    .home-shows-search input {
+        width: 72%;
+        padding: 0 10px;
+    }
+    .blog-discription-about .btn {
+        padding: 9px 20px;
+    }
+    .popular-posts h2:after {
+        width: 110px;
+        top: 100%;
+        left: 0px;
+    }
+    .flora-content span {
+        font-size: 10px;
+    }
+    .follow-us-headingh2:after {
+        width: 110px;
+        top: 100%;
+        left: 0px;
+    }
+    .blog-catagories h2:after {
+        width: 110px;
+        top: 100%;
+        left: 0px;
+    }
+    .popular-posts .card .card-body p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .show-homes-offers-head p {
+        font-size: 23px;
+        line-height: 35px;
+    }
+    .blog-discription-about .card .card-body p {
+        font-size: 14px;
+    }
+    .blog-catagories p {
+        width: 82%;
+        font-size: 15px;
+    }
+    .follow-social-icons .fa-twitter {
+        padding: 6px;
+    }
+    .follow-social-icons .fa-facebook {
+        padding: 6px;
+    }
+    .follow-social-icons .fa-youtube {
+        padding: 6px;
+    }
+    .follow-social-icons .fa-instagram {
+        padding: 6px;
+    }
+    .follow-us-heading .follow-social-icons ul li .fa {
+        padding: 6px;
+    }
+    /*-------------------------Buy-us-page-start-----------------------------*/
+    .subscribe h2 {
+        font-size: 30px;
+    }
+    .subscribe-info .btn {
+        font-size: 17px;
+    }
+    .subscribe .change {
+        padding: 7px 30px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 10px;
+    }
+    .subscribe .btn {
+        font-size: 16px;
+    }
+    .sell-your-home-contact form {
+        margin: 30px 0 20px 0;
+    }
+    .sell-your-home-contact .btn {
+        margin-top: 20px;
+    }
+    .buying-house h2 {
+        margin: 25px 0px;
+    }
+    .sell-home-bg {
+        padding: 40px;
+    }
+    /*-------------------------Contact-us-page-start-----------------------------*/
+    .background:before {
+        left: 0px;
+        right: 0px;
+    }
+    .contact-us .contact-social-icons:before {
+        right: 0px;
+        left: 75px;
+    }
+    .subscribe .btn {
+        font-size: 13px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 6px;
+    }
+    /*-------------------------Featured-property-listing-page-start-----------------------------*/
+    .location {
+        padding: 20px;
+    }
+    .listing-info h5 {
+        font-size: 20px;
+    }
+    .listing-info h5 span {
+        font-size: 20px;
+    }
+    .recent-property-image img {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .recent-property .card .card-body p {
+        font-size: 20px;
+    }
+    .recent-property .card .card-body {
+        padding: 15px 0px;
+    }
+    .our-agent-image img {
+        width: 100%;
+    }
+    .our-agent .card .card-body {
+        padding: 15px 0px;
+    }
+    .our-agent .card .card-body p {
+        font-size: 20px;
+    }
+    .recent-property .card .card-body span {
+        font-size: 20px;
+    }
+    .our-agent .card .card-body span {
+        font-size: 20px;
+    }
+    .subscribe .subscribe-info form {
+        padding: 15px;
+    }
+    /*-------------------------Property-discription-page-start-----------------------------*/
+    .property-description {
+        padding: 0px 0;
+        padding-bottom: 20px;
+    }
+    .discription-recent-property {
+        margin-left: 0;
+    }
+    .discription-our-agent {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .discription-recent-property {
+        margin-top: 30px;
+    }
+    .property-contact-card {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .grand-avenue {
+        padding: 0px 0px;
+    }
+    .property-contact-box h5 {
+        font-size: 20px;
+    }
+    .property-contact-box span {
+        font-size: 20px;
+    }
+    .property-contact-card i {
+        width: 50px;
+        height: 50px;
+        margin-right: 20px;
+    }
+    .discription-recent-property .card-body p {
+        font-size: 20px;
+    }
+    .discription-recent-property .card-body {
+        padding: 15px;
+    }
+    .discription-recent-property .card-body span {
+        font-size: 20px;
+    }
+    .discription-our-agent .card-body p {
+        font-size: 20px;
+    }
+    .discription-our-agent .card-body span {
+        font-size: 20px;
+    }
+    .property-description h3 {
+        margin: 10px 0px;
+        padding-bottom: 5px;
+    }
+    .property-video .button {
+        margin-top: 30px;
+    }
+    .subscribe-info {
+        margin-top: 200px;
+    }
+    .subscribe:before {
+        bottom: 270px;
+    }
+    ul.thumb-nav.slick-initialized.slick-slider {
+    height: 48px;
+    }
+
+    /*-------------------------Join-our-team-page-start-----------------------------*/
+    .join-head h2 {
+        font-size: 33px;
+    }
+    .join-north-seventeen .join-team-image h3 {
+        font-size: 24px;
+    }
+    .join-north-seventeen {
+        padding: 130px 0px 60px 0;
+    }
+    .join-our-team .form-bg {
+        padding: 0px 20px;
+    }
+    .join-our-team .form-control {
+        margin: 10px 0px;
+    }
+    .our-team h2 {
+        font-size: 35px;
+    }
+    .our-team h2 {
+        margin-left: 0;
+    }
+    .our-team .team-image .social-icons {
+        right: 0px;
+    }
+    .join-north-seventeen::before {
+        display: none;
+    }
+    .join-north-seventeen {
+        padding: 0;
+    }
+    .join-head {
+        margin: 0;
+        box-shadow: none;
+        min-height: 150px;
+        right: 0;
+    }
+    .join-north-seventeen .join-team-image {
+        margin: 0;
+    }
+    .join-north-seventeen .join-team-image h3 {
+        padding-top: 90px;
+    }
+    .join-north-seventeen {
+        margin: 0;
+    }
+    /*-------------------------Sell-page-start-----------------------------*/
+    .sell-home-slicer .box2 {
+        margin-top: 100px;
+    }
+    .sell-home-slicer .box4 {
+        margin-top: 150px;
+    }
+    .our-team-experts .vertical-text h3 {
+        left: -700px;
+    }
+    .vertical-text h3:after {
+        top: 40px;
+        left: 320px;
+    }
+    .our-team-experts .vertical-text h3 {
+        top: -820px;
+    }
+    .team-banner-image-info {
+        left: 0;
+    }
+    .team-banner-image-info {
+        border-radius: 0;
+    }
+    .team-banner-image-info span {
+        justify-content: start;
+    }
+    .team-banner .team-banner-image-info span:before {
+        left: 130px;
+    }
+    .team-banner-image-info {
+        bottom: -210px;
+    }
+    .team-banner:before {
+        right: 0;
+    }
+    .properly-maintained-image {
+        width: 100%;
+    }
+    .properly-maintained {
+        padding: 80px 0;
+    }
+    .properly-maintained-image {
+        padding-bottom: 40px;
+    }
+    .properly-maintained-image img {
+        height: 100%;
+        width: auto;
+        margin: 0 auto;
+        display: flex;
+    }
+    .our-team-experts .vertical-text h3 {
+        top: -2100px;
+    }
+    .our-team-experts .vertical-text h3 {
+        font-size: 60px;
+    }
+    /*-------------------------Team-page-start-----------------------------*/
+    .our-team-members .vertical-text h3 {
+    top: 0;
+    left: 0;
+    transform: rotatez(0deg);
+    }
+    .our-team-members .vertical-text h3:after {
+        top: 60px;
+        left: 450px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    /*-------------------------Northseventeen-page-start-----------------------------*/
+    .about-us:after {
+        width: 100%;
+    }
+    .about-us .about-image {
+        height: 630px;
+        top: 30px;
+        width: 100%;
+    }
+    .about-detail h6:after {
+        right: 240px;
+        top: 25px;
+    }
+    .about-detail {
+        padding: 0;
+    }
+    .underlines .blog-content h4:after {
+        top: 40px;
+    }
+    .news-content {
+        padding: 0;
+    }
+    .about-us h2 {
+        padding: 20px 0;
+        font-size: 55px;
+    }
+    .about-image img {
+        height: 80%;
+        left: 10%;
+        top: 10%;
+        bottom: -110px;
+        width: 80%;
+    }
+    .featured-listing h2:after {
+        width: 110px;
+        top: 28px;
+        left: 330px;
+    }
+    .featured-listing h2 {
+        font-size: 40px;
+    }
+    .featured-listing .slick-prevs.slick-arrow {
+        right: 30px;
+        top: -120px;
+    }
+    .vertical-text h3 {
+        transform: rotatez(0deg);
+    }
+    .vertical-text h3 {
+        left: 110px;
+        font-size: 45px;
+    }
+    .vertical-text h3:after {
+        top: 32px;
+        left: 232px;
+    }
+    .news .vertical-text h2 {
+        transform: rotatez(0deg);
+    }
+    .news .vertical-text h2 {
+        left: 20px;
+        bottom: -130px;
+        font-size: 45px;
+    }
+    .news .vertical-text h2:before {
+        width: 220px;
+        height: 3px;
+        left: 280px;
+        top: 30px;
+    }
+    .underlines .vertical-text h3 {
+        left: 0;
+        font-size: 50px;
+        top: -70px;
+    }
+    .featured-listing .slick-nexts.slick-arrow {
+        right: 0px;
+        top: -120px;
+    }
+    .contact-us .contact-head h2 {
+        padding-top: 0;
+    }
+    .testimonial-info-head p {
+        padding-left: 0;
+    }
+    .testimonial-info p {
+        padding: 50px 0px 20px 0px;
+    }
+    .testimonial:before {
+        right: 0;
+        left: 0;
+        top: 0;
+        bottom: 0;
+    }
+    .testimonial h2 {
+        font-size: 45px;
+        margin-bottom: 20px;
+    }
+    .testimonial h2:after {
+        top: 30px;
+        left: 300px;
+    }
+    .testimonial .slick-prevs.slick-arrow {
+        bottom: 80px;
+    }
+    .testimonial .slick-nexts.slick-arrow {
+        bottom: 80px;
+    }
+    .featured-listing {
+        padding: 60px 0px 60px 0px;
+    }
+    .vertical-text h3 {
+        top: -60px;
+        left: 110px;
+    }
+    .blogs h4 {
+        font-size: 27px;
+    }
+    .blog-content h4:after {
+        top: 85px;
+    }
+    .before-color:before {
+        top: 50%;
+    }
+    .feature-info {
+        bottom: 20px;
+        left: 85px;
+    }
+    .blog-image {
+        height: 500px;
+        width: 100%;
+        overflow: hidden;
+    }
+    .blog-content {
+        margin: 20px 0px;
+    }
+    .blog-content p {
+        font-size: 17px;
+        padding: 30px 0px 0px 0px;
+        margin-bottom: 0px;
+    }
+    .blog-content span:before {
+        left: 200px;
+    }
+    .blog-content2 {
+        margin: 20px 0px;
+    }
+    .blog-content2 p {
+        font-size: 17px;
+        padding: 30px 0px 0px 0px;
+    }
+    .blog-content2 span:before {
+        left: 200px;
+    }
+    .blog-image2 {
+        height: 500px;
+        width: 100%;
+        overflow: hidden;
+    }
+    .news {
+        padding: 0px 0px 30px 0px;
+    }
+    .news .slick-prevs.slick-arrow {
+        bottom: 10px;
+        z-index: 1;
+    }
+    .news .slick-nexts.slick-arrow {
+        bottom: 10px;
+        z-index: 1;
+    }
+    .news .news-image {
+        width: 100%;
+        height: 500px;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+    .news-content span:before {
+        left: 140px;
+    }
+    .latest .news-content h4:after {
+        bottom: 0px;
+    }
+    .featured-listing {
+        padding: 0px;
+    }
+    .contact-us {
+        padding-top: 30px;
+    }
+    .news:before {
+        top: 0;
+        bottom: 0;
+    }
+    .latest .vertical-text h2 {
+        left: 0px;
+        bottom: -20px;
+    }
+    .latest .vertical-text h2 {
+        left: 0;
+    }
+    .latest .news-content span a {
+        text-align: left;
+    }
+    .latest .news-content h4 {
+        font-size: 27px;
+    }
+    .footer h2 {
+        margin-top: 0;
+    }
+    .footer .home-social {
+        margin-top: 30px;
+    }
+    .footer .home-social a i {
+        margin: 0 25px;
+    }
+    .news .vertical-text h2 {
+        height: 100px;
+    }
+    .featured-listing .slide-image {
+        height: 550px;
+        width: 100%;
+    }
+    .featured-listing .slide-image img {
+        height: 100%;
+        width: 100%;
+    }
+    .featured-listing .slick-slider {
+        height: 600px;
+    }
+    .news .slick-nexts.slick-arrow {
+        bottom:0;
+    }
+    .news .slick-prevs.slick-arrow {
+        bottom: 0px;
+    }
+    .testimonial .slick-slider {
+        height: auto;
+    }
+    .footer .footer-nav ul li {
+    margin: 0 20px;
+    }
+
+    /*-------------------------About-us-page-start-----------------------------*/
+    .vertical-text h3 {
+        top: -60px;
+        left: 40px;
+    }
+    .vertical-text h3 {
+        top: -40px;
+        left: 40px;
+    }
+    .our-story .story-head p {
+        line-height: 25px;
+        font-size: 20px;
+    }
+    .story-head p:after {
+        left: 450px;
+        top: 50%;
+    }
+    .our-story .story-wraper {
+        padding: 40px 0px;
+    }
+    .our-story .meet-team span {
+        margin-top: 20px;
+        text-align: left;
+    }
+    .our-story .meet-team span:before {
+        top: 50%;
+        left: 180px;
+    }
+    .our-team h2 {
+        font-size: 40px;
+    }
+    .our-team h2:after {
+        left: 310px;
+        width: 170px;
+    }
+    .our-team .slick-prevs.slick-arrow {
+        top: -100px;
+    }
+    .our-team .slick-nexts.slick-arrow {
+        top: -100px;
+    }
+    .our-team .card {
+        margin: 0 95px;
+    }
+    .our-team .card h5 {
+        font-size: 23px;
+    }
+    .our-team .card .card-body p {
+        font-size: 18px;
+    }
+    .our-team .card .card-body {
+        padding: 5px 0px;
+    }
+    .our-team .card:hover img {
+        left: -30px;
+    }
+    .our-team h2 {
+        margin-bottom: 20px;
+        margin-left: 40px;
+    }
+    .story-info {
+        margin-right: 0;
+    }
+    .story-info {
+        top: 500px;
+    }
+    .story-info {
+        top: 500px;
+        position: revert;
+    }
+    .footer-nav a {
+        font-size: 17px;
+        font-weight: 300;
+    }
+    .footer p {
+        font-size: 14px;
+        font-weight: 300;
+    }
+    .footer ul li a {
+        font-size: 17px;
+    }
+    .footer-nav {
+        padding: 10px 0px;
+    }
+    .footer h2 {
+        font-size: 30px;
+    }
+    .footer .contact {
+        padding-top: 30px;
+    }
+    .subscribe:before {
+        bottom: 900px;
+    }
+    .subscribe-info .btn {
+        padding: 7px 20px;
+        font-size: 14px;
+        margin-left: 90px;
+    }
+    .subscribe-info span {
+        font-size: 17px;
+        margin-left: 30px;
+    }
+    .subscribe .subscribe-info form {
+        padding: 30px 10px 10px 0px;
+    }
+    .services .card {
+        margin: 10px 0px;
+    }
+    .story-info-image {
+        width: 100px;
+    }
+    .story-info-main {
+        bottom: 40px;
+    }
+    .subscribe .subscribe-info form {
+        margin-top: 60px;
+    }
+    .subscribe .subscribe-info h2:after {
+        bottom: -10px;
+    }
+    .vertical-text h3 {
+        font-size: 40px;
+    }
+    .vertical-text h3:after {
+        top: 40px;
+        left: 260px;
+        height: 2px;
+    }
+    .story-image img {
+        margin: 0 auto;
+        display: flex;
+    }
+    .navbar-toggler {
+        background-color: #2acdd5d1;
+        border: 1px solid white;
+    }
+    .story-head p:after {
+        width: 90px;
+    }
+    .vertical-text h3:after {
+        top: 30px;
+        left: 250px;
+        width: 180px;
+    }
+    /*-------------------------blog-page-start-----------------------------*/
+    .blog-content p {
+        padding-top: 20px;
+    }
+    .blog-content h4:after {
+        top: 35px;
+    }
+    .blog-content span a {
+        text-align: left;
+    }
+    .blog-content span:before {
+        left: 120px;
+    }
+    .blog-content2 p {
+        padding: 20px 0px 0px 0px;
+    }
+    .blog-content2 h4:after {
+        bottom: -10px;
+    }
+    .blog-content2 span a {
+        text-align: left;
+    }
+    .blog-content2 span:before {
+        left: 120px;
+    }
+    .news-image img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+    .richest-resident .card .card-body {
+        padding-top: 20px;
+    }
+    .richest-resident h4:after {
+        bottom: 0;
+    }
+    .richest-resident .card span a {
+        justify-content: flex-start;
+    }
+    .richest-resident .card span a:before {
+        left: 120px;
+    }
+    .resident-blog-content2 h4:after {
+       bottom: 0;
+    }
+    .resident-blogs p {
+        padding: 15px 0px 10px 0px;
+    }
+    .resident-blog-content h4:after {
+        top: 35px;
+    }
+    .resident-blog-content a {
+        justify-content: flex-start;
+    }
+    .resident-blog-content span:before {
+        left: 120px;
+    }
+    .resident-blog-content h4 {
+        margin-top: 20px;
+    }
+    .blog-content2 h4:after {
+       bottom: -10px;
+    }
+    .resident-blog-content2 h4 {
+        margin-top: 10px;
+    }
+    .richest-resident {
+        margin-bottom: 0px;
+    }
+    .subscribe .subscribe-info form input {
+        margin-right: 120px;
+        padding: 0 30px;
+    }
+    .blogs {
+        padding-bottom: 20px;
+    }
+    .resident-blog-content2.moveUp.animated {
+        padding-bottom: 20px;
+    }
+    .news-image {
+        bottom: 0;
+        padding-top: 50px;
+    }
+    .blog-image2 img {
+        width: 100%;
+        height: 100%;
+    }
+    .resident-blog-image {
+        height: 500px;
+    }
+    .resident-blog-image2 {
+        height: 500px;
+        width: 100%;
+        overflow: hidden;
+    }
+    /*-------------------------blog-discription-page-start-----------------------------*/
+    .home-blog-caps p {
+        font-size: 41px;
+    }
+    .home-shows-search input {
+        width: 93%;
+    }
+    .flora-content p {
+        display: flex;
+        justify-content: flex-end;
+    }
+    .banner-blog-content {
+        padding: 20px;
+    }
+    .home-shows-head {
+        padding: 50px 0px 0px 0px;
+    }
+    .discription-image-show img {
+        margin-bottom: 30px;
+    }
+    .blog-discription-about .card {
+        display: block;
+    }
+    .blog-discription-about .card img {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .blog-catagories p {
+        width: 96%;
+        font-size: 17px;
+    }
+    .join-team-blog .btn {
+        padding: 6px 15px;
+        font-size: 17px;
+        display: inline-block;
+    }
+    .facebook-blog-image img {
+        width: 100%;
+    }
+    .popular-posts .card img {
+        height: 120px;
+        width: 200px;
+    }
+    .follow-us-heading .follow-social-icons ul li .fa {
+        font-size: 17px;
+    }
+    .home-blog-caps {
+        padding: 20px;
+    }
+    .follow-us-heading {
+        margin: 30px 0px;
+    }
+    .popular-posts .card .card-body {
+        padding-left: 0;
+    }
+    .head {
+        position: relative;
+        margin: 0;
+        background-color: #2acdd5d1;
+    }
+    .head .navbar ul li a {
+        display: inline-block;
+    }
+    /*-------------------------Buy-us-page-start-----------------------------*/
+    .sell-home-bg {
+        padding: 40px 19px;
+    }
+    .subscribe-info .btn {
+        margin-left: 30px;
+    }
+    .buying-house h2 {
+        font-size: 33px;
+    }
+    .buying-house span {
+        font-size: 33px;
+    }
+    .buying-house h2:after {
+        bottom: 0px;
+    }
+    .sell-your-home-contact {
+        padding: 20px 0px;
+    }
+    .sell-your-home-contact h2 {
+        font-size: 33px;
+    }
+    /*-------------------------Contact-us-page-start-----------------------------*/
+    .background:before {
+        left: 70;
+        right: 0px;
+    }
+    .contact-us .contact-social-icons:before {
+        right: 0px;
+        left: 180px;
+    }
+    /*-------------------------featured-property-listing-page-start-----------------------------*/
+    .featured-listing-head h3 {
+        font-size: 40px;
+    }
+    .listing-info h5 {
+        display: flex;
+        justify-content: space-between;
+    }
+    .featured-listing-head span {
+        font-size: 40px;
+    }
+    .featured-listing-head span:after {
+        bottom: 0;
+    }
+    .featured-listing-head p {
+        padding: 10px 0px;
+    }
+    .Featured-listing {
+        padding: 0;
+    }
+    /*-------------------------property-discription-page-start-----------------------------*/
+    .grand-avenue .grand-avenue-head {
+        margin: 25px 0px;
+    }
+    .grand-avenue-head h3 {
+        font-size: 35px;
+    }
+    .grand-avenue-head h3 span {
+        font-size: 35px;
+    }
+    .grand-avenue-head h3:after {
+        top: 42px;
+    }
+    .property-Contact-info .card .btn {
+        padding: 16px 20px;
+    }
+    ul.thumb-nav.slick-initialized.slick-slider {
+    height: 34px;
+    }
+
+    /*-------------------------Join-our-team-page-start-----------------------------*/
+    .join-head:after {
+        display: none;
+    }
+    .join-north-seventeen {
+        padding: 0px;
+    }
+    .join-head h2 {
+        font-size: 35px;
+    }
+    .join-team-image {
+        padding: 10px;
+    }
+    .join-north-seventeen .join-team-image h3 {
+        padding-top: 90px;
+    }
+    .join-head h2:after {
+        top: 0px;
+        right: 0;
+        bottom: -80px;
+        left: -10px;
+    }
+    .join-head h2:before {
+        top: 30px;
+    }
+    .join-north-seventeen .join-team-image h3 {
+        padding-top: 0;
+    }
+    .join-north-seventeen .join-team-image {
+        padding: 100px 16px;
+    }
+    .join-our-team {
+        padding: 30px 0px;
+    }
+    .join-our-team-head h2 {
+        margin-bottom: 30px;
+    }
+    .our-team h2 {
+        font-size: 34px;
+    }
+    .our-team h2:after {
+        left: 290px;
+        width: 140px;
+    }
+    .our-team h2 {
+        margin-left: 0;
+    }
+    .our-team h2 {
+        font-size: 28px;
+    }
+    .our-team h2:after {
+        left: 240px;
+    }
+    .our-team {
+        padding: 10px 0px 10px 0px;
+    }
+    .subscribe-info {
+        margin-top: 120px;
+    }
+    /*-------------------------Sell-page-start-----------------------------*/
+    .sell-your-home-head h2 {
+        font-size: 30px;
+    }
+    .sell-your-home-head span {
+        font-size: 30px;
+    }
+    .sell-home-slicer .box2 {
+        margin-top: 0;
+    }
+    .sell-home-slicer .box3 {
+        margin-top: 0;
+    }
+    .sell-home-slicer .box4 {
+        margin-top: 0;
+    }
+    /*-------------------------Testimonial-page-start-----------------------------*/
+    .testimonial-slicer .card {
+        margin-bottom: 40px;
+    }
+    .testimonial-slicer:before {
+        bottom: 0;
+        right: 0;
+    }
+    .testimonial-slicer .card {
+        padding: 40px;
+    }
+    /*-------------------------Team-page-start-----------------------------*/
+    .our-team-experts .card .card-body {
+        padding: 25px;
+    }
+    .our-team-members .vertical-text h3 {
+        transform: rotatez(0deg);
+        left: 0px;
+        top: 0;
+        font-size: 65px;
+    }
+    .our-team-members .vertical-text h3:after {
+        top: 45px;
+        left: 349px;
+        width: 150px;
+    }
+    .team-banner:before {
+        bottom: -440px;
+    }
+    .team-banner-image-info {
+        top: 10px;
+        position: relative;
+    }
+    .team-banner {
+        margin-bottom: 30px;
+    }
+    .our-team-members .card .member-image {
+        height: 470px;
+        width: 400px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    /*-------------------------Northseventeen-page-start-----------------------------*/
+    .btn {
+        padding: 10px 30px;
+        font-size: 17px;
+    }
+    .navbar-toggler {
+        background-color: #2acdd5d1;
+        border: 1px solid #fff5f5;
+    }
+    .head {
+        position: relative;
+        background-color: #2acdd5d1;
+        margin: 0;
+        border-bottom: 0px;
+    }
+    .navbar-brand img {
+        width: 140px;
+    }
+    .about-us .social-icon {
+        right: 0;
+    }
+    .blog-content2 {
+        padding: 0;
+    }
+    .about-us h2 {
+        padding: 20px 70px 0 0;
+    }
+    .vertical-text h3 {
+        top: -60px;
+        left: 20px;
+    }
+    .blog-content2 span a {
+        text-align: left;
+    }
+    .blog-content2 {
+        margin: 0;
+    }
+    .news .vertical-text h2 {
+        left: 0px;
+    }
+    .news-content {
+        padding: 0;
+    }
+    .news-content span a {
+        text-align: left;
+    }
+    .news .news-content p {
+        padding: 20px 0px;
+    }
+    .news-content span:before {
+        left: 120px;
+    }
+    .news .vertical-text h2 {
+        width: 400px;
+    }
+    .news .vertical-text h2:before {
+        width: 150px;
+    }
+    .testimonial .slick-nexts.slick-arrow {
+        bottom: 40px;
+    }
+    .testimonial .slick-prevs.slick-arrow {
+        bottom: 40px;
+    }
+    .testimonial h2:after {
+        top: 30px;
+        left: 290px;
+        width: 120px;
+    }
+    .before-color:before {
+        top: 50%;
+    }
+    .blog-content span a {
+        display: block;
+        text-align: left;
+        color: black;
+    }
+    .blog-content {
+        margin: 20px 0px;
+    }
+    .services {
+        padding: 40px 0px;
+    }
+    .blogs h4 {
+        font-size: 24px;
+    }
+    .blog-content h4:after {
+        top: 35px;
+    }
+    .blog-content2 h4:after {
+        bottom: -10px;
+    }
+    .blog-content2 p {
+        padding: 20px 0px 0px 0px;
+    }
+    .blog-content p {
+        padding: 20px 0px 20px 0px;
+    }
+    .about-us h2 {
+        padding: 20px 70px;
+    }
+    .about-us .social-icon {
+        left: 0px;
+    }
+    .news .news-content h4 {
+        font-size: 26px;
+    }
+    .news .news-content h4:after {
+        bottom: 0;
+    }
+    .services .card {
+        margin: 10px 100px;
+    }
+    .news:before {
+        top: 0px;
+        bottom: 0;
+    }
+    .featured-listing h2 {
+        margin-bottom: 20px;
+    }
+    .featured-listing .slick-prevs.slick-arrow {
+        right: 40px;
+        top: -100px;
+    }
+    .featured-listing .slick-nexts.slick-arrow {
+        right: 10px;
+        top: -100px;
+    }
+    .footer-nav {
+        padding: 40px 0 10px 0px;
+    }
+    .feature-info {
+        bottom: 20px;
+        left: 0px;
+        padding: 10px;
+    }
+    .slide-image {
+        width: 100%;
+    }
+    .footer:before {
+        top: -10px;
+    }
+    .contact-us .social-icons ul li {
+        margin-bottom: 0;
+    }
+    .social-icons p {
+        display: flex;
+        justify-content: center;
+    }
+    .footer .home-social a i {
+        margin: 0 15px;
+    }
+    .card-head img {
+        margin: 0 auto;
+    }
+    .slick-slide img {
+        margin: 0 auto;
+    }
+    .testimonial .card-body p {
+        justify-content: center;
+        display: flex;
+    }
+    .news .slick-prevs.slick-arrow {
+        bottom: -30px;
+    }
+    .news .slick-nexts.slick-arrow {
+        bottom: -30px;
+    }
+    .slick-slider {
+        height: 930px;
+    }
+    .testimonial .slick-slider {
+        height: 460px;
+    }
+    .footer .footer-nav ul li {
+    margin: 0 15px;
+    }
+
+    /*-------------------------About-us-page-start-----------------------------*/
+    .our-story .story-head p {
+        font-size: 25px;
+    }
+    .our-story .story-wraper {
+        padding: 30px 0;
+    }
+    .story-head p:after {
+        left: 110px;
+        top: 80%;
+    }
+    .story-inverted {
+        display: flex;
+        justify-content: start;
+    }
+    .story-image {
+        padding: 0 0px 0 0;
+    }
+    .story-image img {
+        width: 100%;
+        object-fit: contain;
+    }
+    .our-team h2 {
+        margin-bottom: 40px;
+        margin-left: 0;
+    }
+    .our-team h2 {
+        margin-bottom: 20px;
+        margin-left: 0;
+    }
+    .our-team .slick-nexts.slick-arrow {
+        top: -98px;
+        right: 30px;
+    }
+    .our-team .slick-prevs.slick-arrow {
+        top: -98px;
+        right: 60px;
+    }
+    .our-team h2:after {
+        width: 130px;
+    }
+    .our-team .card h5 {
+        font-size: 17px;
+    }
+    .our-team .card .card-body p {
+        font-size: 12px;
+        line-height: 10px;
+        letter-spacing: 0px;
+    }
+    .subscribe h2 {
+        font-size: 35px;
+        padding-left: 16px;
+    }
+    .subscribe .subscribe-info h2:after {
+        left: 30px;
+    }
+    .subscribe .subscribe-info h2:after {
+        left: 16px;
+    }
+    .vertical-text h3 {
+        top: -40px;
+        left: 0px;
+    }
+    .footer ul li a i {
+        margin-right: 10px;
+    }
+    /*-------------------------blog-page-start-----------------------------*/
+    .blogs .vertical-text h3 {
+        left: 0;
+        font-size: 50px;
+        top: -80px;
+        padding-top: 10px;
+    }
+    .vertical-text h3:after {
+        top: 45px;
+        left: 270px;
+        width: 170px;
+    }
+    .blog-image {
+        height: 450px;
+    }
+    .blog-image2 {
+        height: 450px;
+    }
+    .news-image {
+        height: 450px;
+        padding: 0 16px;
+    }
+    .resident-blog-image2 {
+        height: 450px;
+    }
+    .resident-blog-image {
+        height: 450px;
+    }
+    .resident-info {
+        padding: 0 16px;
+    }
+    /*-------------------------blog-discription-page-start-----------------------------*/
+    .home-shows-head {
+        padding: 17px 0px 0px 0px;
+    }
+    .discription-image-show img {
+        margin-bottom: 10px;
+        height: 400px;
+    }
+    .show-homes-offers-head {
+        padding: 15px 0px 15px 15px;
+        margin: 15px 0px;
+    }
+    .subscribe .subscribe-info form {
+        padding: 30px 10px 10px 17px;
+    }
+    .subscribe .subscribe-info form input {
+        margin-right: 70px;
+    }
+    .side-bar {
+        padding: 20px;
+    }
+    .banner-info p {
+        font-size: 28px;
+    }
+    .blog-catagories p {
+        width: 95%;
+    }
+    .popular-posts .card .card-body p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .join-team-blog {
+        width: 60%;
+    }
+    .join-team-blog h2 {
+        font-size: 36px;
+    }
+    .home-shows-search input {
+        width: 91%;
+    }
+    .head {
+        position: relative;
+        margin: 0;
+        background-color: #2acdd5d1;
+    }
+    .home-shows-head {
+        padding: 0;
+    }
+    /*--------------------------Buy-us-page-start-----------------------------*/
+    .buying-house h2 {
+        font-size: 26px;
+    }
+    .buying-house span {
+        font-size: 26px;
+    }
+    .buying-house h2:after {
+        bottom: 0px;
+    }
+    .sell-home-bg {
+        padding: 20px 19px;
+    }
+    .sell-your-home-contact .btn {
+        display: block;
+    }
+    /*-------------------------Contact-us-page-start-----------------------------*/
+    .contact-us .contact-social-icons:before {
+        right: 15px;
+        left: 180px;
+    }
+    .background:before {
+        right: 100px;
+    }
+    .contact-us .contact-social-icons:before {
+        display: none;
+    }
+    .map {
+        padding-bottom: 0px;
+    }
+    .contact-us {
+        padding-bottom: 10px;
+    }
+    .background:before {
+        margin: -50px -100px 0px -75px;
+    }
+    .background {
+        top: 0;
+    }
+    .head .navbar ul li a {
+        display: inline-block;
+    }
+    .contact-us .background p {
+        display: flex;
+        justify-content: flex-start;
+    }
+    /*-------------------------Featured-property-listing-page-start-----------------------------*/
+    .featured-listing-head h3 {
+        font-size: 30px;
+    }
+    .featured-listing-head span {
+        font-size: 30px;
+    }
+    .featured-listing-head span:after {
+        bottom: 0px;
+        left: 30px;
+    }
+    .join-north-seventeen .join-team-image {
+        padding: 80px 16px;
+    }
+    .join-head h2 {
+        font-size: 30px;
+    }
+    .join-head h2:before {
+        top: 20px;
+    }
+    .join-our-team-head h2 {
+        font-size: 45px;
+    }
+    .join-our-team-head h2:after {
+        top: 55px;
+    }
+    .join-our-team form .btn {
+        padding: 10px 120px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        display: block;
+    }
+    .subscribe-info span {
+        margin-left: 0;
+    }
+    .subscribe-info {
+        margin-top: 30px;
+    }
+    /*-------------------------Testimonial-page-start-----------------------------*/
+    .testimonial-slicer {
+        padding: 20px 0px;
+    }
+    /*-------------------------Team-page-start-----------------------------*/
+    .our-team-members .vertical-text h3 {
+        font-size: 55px;
+    }
+    .our-team-members .vertical-text h3:after {
+        top: 40px;
+        left: 279px;
+    }
+    .team-banner:before {
+        bottom: -470px;
+    }
+    .space {
+        margin: 0;
+    }
+    .properly-maintained {
+        padding: 30px 0;
+    }
+    .grand-avenue .slick-slider {
+    height: auto;
+    }
+    ul.thumb-nav.slick-initialized.slick-slider {
+    height: 27px;
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+    /*-------------------------Northseventeen-page-start-----------------------------*/
+    .vertical-text h3 {
+        font-size: 35px;
+    }
+    .blogs .vertical-text h3:after {
+        top: 25px;
+        left: 205px;
+        width: 100px;
+    }
+    .blog-content h4:after {
+        top: 65px;
+    }
+    .blog-content span:before {
+        left: 120px;
+        width: 130px;
+    }
+    .blog-content2 span:before {
+        left: 120px;
+    }
+    .featured-listing .slick-prevs.slick-arrow {
+        right: 220px;
+        top: 250px;
+    }
+    .featured-listing .slick-nexts.slick-arrow {
+        right: 190px;
+        top: 250px;
+    }
+    .news .vertical-text h2 {
+        left: 0;
+        font-size: 35px;
+    }
+    .news .vertical-text h2:before {
+        left: 220px;
+        top: 25px;
+        width: 100px;
+    }
+    .news .news-image img {
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+    }
+    .testimonial h2:after {
+        width: 160px;
+    }
+    .testimonial h2 {
+        font-size: 35px;
+    }
+    .testimonial h2:after {
+        top: 25px;
+        left: 230px;
+    }
+    .featured-listing h2 {
+        font-size: 35px;
+    }
+    .featured-listing h2:after {
+        width: 50px;
+        top: 25px;
+        left: 280px;
+    }
+    .services .card {
+        margin: 10px 0px;
+    }
+    .blog-image2 {
+        height: 100%;
+        width: 100%;
+        margin: 20px auto;
+    }
+    .blog-image {
+        width: auto;
+    }
+    .blog-image2 {
+        width: 100%;
+    }
+    .about-detail h6:after {
+        right: 60px;
+    }
+    .about-us h2 {
+        font-size: 40px;
+    }
+    .footer .home-social h2 {
+        font-size: 30px;
+    }
+    .footer .home-social a i {
+        margin: 0 15px;
+    }
+    .footer-nav a {
+        font-size: 15px;
+    }
+    .news-content span:before {
+        width: 100px;
+    }
+    .news .news-image {
+        height: 400px;
+    }
+    .news .news-content h4:after {
+        bottom: 0px;
+    }
+    .news .vertical-text h2 {
+        width: 330px;
+    }
+    .slick-slider {
+        height: auto;
+    }
+    .testimonial-info-head p {
+        margin-top: 20px;
+    }
+    .testimonial .slick-slider {
+        height: auto;
+    }
+    .footer .footer-nav ul li {
+    margin: 0 8px;
+    }
+    .footer ul li a {
+    font-size: 14px;
+    }
+    .footer .home-social a i {
+    margin: 0 6px;
+}
+    /*-------------------------About-us-page-start-----------------------------*/
+    .banner-info p {
+        font-size: 25px;
+    }
+    .our-story .story-head p {
+        font-size: 21px;
+    }
+    .story-head p:after {
+        left: 150px;
+    }
+    .our-team h2 {
+        font-size: 30px;
+    }
+    .our-team h2:after {
+        left: 0;
+        top: 40px;
+    }
+    .our-team .team-image .social-icons ul li .fa {
+        color: #ff5209;
+        font-size: 20px;
+    }
+    .our-team .team-image .social-icons {
+        top: 0px;
+        right: 5px;
+    }
+    .our-team {
+        padding: 10px 0px 20px 0px;
+    }
+    .our-team .fa {
+        font-size: 40px;
+    }
+    .our-team .slick-prevs.slick-arrow {
+        top: -102px;
+        right: 50px;
+    }
+    .our-team .slick-nexts.slick-arrow {
+        top: -102px;
+        right: 30px;
+    }
+    .story-image {
+        height: 420px;
+    }
+    .our-story {
+        padding: 50px 0px 0 0;
+    }
+    .subscribe h2 {
+        font-size: 30px;
+    }
+    .subscribe .subscribe-info h2:after {
+        bottom: -10px;
+    }
+    .subscribe .subscribe-info .button-group {
+        margin-top: 30px;
+    }
+    .subscribe-info .btn {
+        margin-left: 20px;
+    }
+    .our-approach .approach-info h2 {
+        font-size: 30px;
+    }
+    .our-approach .approach-info h2:after {
+        bottom: -10px;
+    }
+    .our-story .meet-team span:before {
+        top: 55%;
+    }
+    .vertical-text h3 {
+        font-size: 30px;
+    }
+    .our-story .story-wraper {
+        padding: 15px 0;
+    }
+    .our-story .story-head p {
+        line-height: 30px;
+    }
+    .services {
+        padding: 40px 0px 0 0;
+    }
+    .our-approach {
+        padding: 10px 0px;
+    }
+    .vertical-text h3:after {
+        top: 20px;
+        left: 170px;
+        width: 150px;
+    }
+    /*-------------------------blog-page-start-----------------------------*/
+    .blog-content h4:after {
+        top: 35px;
+    }
+    .blogs h4 {
+        font-size: 21px;
+    }
+    .blog-content2 h4:after {
+        bottom: -10px;
+    }
+    .resident-blog-content h4 {
+        font-size: 22px;
+    }
+    .blogs .vertical-text h3 {
+        font-size: 40px;
+        top: -65px;
+        padding-top: 0;
+    }
+    .blog-content2 {
+        padding-top: 30px;
+    }
+    .vertical-text h3 {
+        width: 300px;
+    }
+    .resident-blog-content h4:after {
+        top: 52px;
+    }
+    .resident-blog-content span:before {
+        width: 130px;
+    }
+    .resident-blog-content2 span:before {
+        width: 130px;
+    }
+    .richest-resident .card span a:before {
+        width: 130px;
+    }
+    .blog-content2 span:before {
+        width: 130px;
+    }
+    .blogs .blog-content span:before {
+        width: 130px;
+    }
+    .blogs .blog-content h4:after {
+        bottom: 0px;
+    }
+    .resident-blog-content2 h4:after {
+        bottom: 0;
+    }
+    .blog-image {
+        height: 350px;
+    }
+    .blog-image2 {
+        width: 100%;
+    }
+    .news-image {
+        height: 350px;
+    }
+    .resident-blog-image2 {
+        height: 350px;
+    }
+    .resident-blog-image {
+        height: 350px;
+    }
+    /*-------------------------blog-discription-page-start-----------------------------*/
+    .home-blog-image p {
+        font-size: 15px;
+    }
+    .home-shows {
+        padding-bottom: 10px;
+    }
+    .join-team-blog h2 {
+        font-size: 28px;
+    }
+    .blog-catagories p {
+        width: 93%;
+    }
+    .home-shows-search input {
+        width: 89%;
+    }
+    .subscribe .subscribe-info .button-group input {
+        margin-right: 10px;
+    }
+    .flora-content p {
+        font-size: 8px;
+    }
+    .banner-blog-content {
+        padding: 10px;
+    }
+    .flora-park-head h4 {
+        font-size: 20px;
+        line-height: 50px;
+    }
+    .flora-content p {
+        margin-bottom: 0;
+    }
+    .discription-image-show img {
+        height: 300px;
+        object-fit: cover;
+    }
+    .show-homes-offers-head p {
+        font-size: 19px;
+        line-height: 30px;
+    }
+    .home-shows-search input {
+        width: 87%;
+    }
+    /*-------------------------Buy-us-page-start-----------------------------*/
+    .buying-house h2 {
+        font-size: 20px;
+    }
+    .buying-house span {
+        font-size: 20px;
+    }
+    .buying-house h2:after {
+        bottom: 0;
+        left: 100px;
+    }
+    .buying-house h2 {
+        margin: 15px 0px;
+    }
+    .sell-your-home-contact h2 {
+        font-size: 25px;
+    }
+    .sell-your-home-contact form {
+        margin: 10px 0 20px 0;
+    }
+    .sell-your-home-contact .form-control {
+        padding: 24px 20px;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .subscribe-info .btn {
+        margin-left: 10px;
+        padding: 7px 15px;
+    }
+    .subscribe h2 {
+        font-size: 26px;
+    }
+    .sell-your-home-contact .btn {
+        padding: 12px 100px;
+    }
+    /*-------------------------Contact-us-page-start-----------------------------*/
+    .subscribe-info .btn {
+        padding: 7px 12px;
+    }
+    /*-------------------------Featured-property-listing-page-start-----------------------------*/
+    .listing-info h5 {
+        font-size: 17px;
+    }
+    .listing-info h5 span {
+        font-size: 17px;
+    }
+    .subscribe-info span {
+        font-size: 13px;
+    }
+    .featured-listing-head h3 {
+        font-size: 22px;
+    }
+    .featured-listing-head span {
+        font-size: 22px;
+    }
+    .featured-listing-head span:after {
+        bottom: 0px;
+        left: -10px;
+    }
+    .Featured-listing {
+        padding: 0;
+    }
+    /*-------------------------Property-discription-page-start-----------------------------*/
+    .slick-prev:before {
+        content: '←';
+    }
+    .subscribe-info {
+        margin-top: 0;
+    }
+    .thumb-nav .slick-prev {
+        top: 10px;
+    }
+    .thumb-nav .slick-next {
+        top: 10px;
+    }
+    .slick-prev:before {
+        display: none;
+    }
+    .slick-next:before {
+        display: none;
+    }
+    .property-infield {
+        margin: 0 15px;
+    }
+    .grand-avenue .main-img-slider img {
+        height: 400px;
+    }
+    .grand-avenue-head h3 {
+        font-size: 25px;
+    }
+    .grand-avenue-head h3 span {
+        font-size: 25px;
+    }
+    .grand-avenue-head h3:after {
+        top: 30px;
+        height: 2px;
+        left: 40px;
+    }
+    .subscribe-info span {
+        margin-left: 0px;
+        font-size: 12px;
+    }
+    .property-logo img {
+        height: 60px;
+    }
+    .property-logo {
+        position: absolute;
+        top: 36%;
+        left: 43%;
+    }
+    .grand-avenue .main-img-slider img {
+        height: 300px;
+    }
+    .add-favourite {
+        justify-content: start;
+    }
+    .property-infield ul li a {
+        font-size: 12px;
+    }
+    .property-infield ul li a img {
+        margin-right: 3px;
+        height: 20px;
+    }
+    .property-infield ul li {
+        margin-right: 15px;
+    }
+    .banner-info h1 {
+        font-size: 32px;
+    }
+    .banner-info h1 {
+        font-size: 32px;
+    }
+    .property-Contact-info .card .btn {
+        padding: 16px 0px;
+    }
+    .join-head h2 {
+        font-size: 21px;
+    }
+    .join-our-team h3 {
+        font-size: 20px;
+    }
+    .our-team .team-image .social-icons ul li .fa {
+        font-size: 15px;
+    }
+    .our-team .team-image .social-icons ul li {
+        margin: 5px 0px;
+    }
+    .our-team .card h5 {
+        font-size: 14px;
+    }
+    ul.thumb-nav.slick-initialized.slick-slider {
+    height: 18px;
+    }
+    
+    /*-------------------------Testimonial-page-start-----------------------------*/
+    .testimonial-slicer-head p {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .testimonial-slicer-info p {
+        font-size: 20px;
+        line-height: 30px;
+        padding-bottom: 20px;
+    }
+    /*-------------------------Team-page-start-----------------------------*/
+    .team-expert-content h3 {
+        font-size: 35px;
+    }
+    .our-team-members .vertical-text h3 {
+        top: 30px;
+        font-size: 35px;
+    }
+    .our-team-members .vertical-text h3:after {
+        top: 25px;
+        left: 190px;
+    }
+    .our-team-members .btn {
+        margin-bottom: 30px;
+    }
+    .properly-maintained-info h4 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .our-team-members .vertical-text h3 {
+        width: 320px;
+    }
+    .team-banner:before {
+        bottom: 0;
+    }
+    .properly-maintained-image {
+        height: 400px;
+    }
+    .properly-maintained-info p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .testimonial h2:after {
+        width: 100px;
+    }
+    .our-team-members .vertical-text h3:after {
+        width: 120px;
+    }
+    .testimonial-info h3 {
+        padding-left: 0;
+    }
+    .team-banner-image-info h5 {
+        font-size: 19px;
+        line-height: 26px;
+    }
+    .our-team-members .card .member-image {
+        height: 380px;
+        width: 320px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    /*-------------------------Northseventeen-page-start-----------------------------*/
+    .northseventeen {
+        height: 70vh;
+    }
+    .banner-info h1 {
+        font-size: 25px;
+    }
+    .about-us .social-icon ul li .fa {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+    .about-us .social-icon h5 {
+        margin-bottom: 5px;
+        font-size: 17px;
+    }
+    .about-us h2 {
+        font-size: 25px;
+    }
+    .about-detail h6:after {
+        right: 58px;
+        top: 25px;
+    }
+    .about-image img {
+        height: 80%;
+        bottom: 0;
+    }
+    .services .card {
+        margin: 10px;
+    }
+    .blogs h4 {
+        font-size: 25px;
+    }
+    .blog-content h4:after {
+        top: 60px;
+    }
+    .blog-content span:before {
+        width: 140px;
+    }
+    .blog-content2 span:before {
+        width: 100px;
+    }
+    .feature-info {
+        padding: 10px;
+        margin: 0px 10px;
+    }
+    .feature-info {
+        bottom: 20px;
+        left: 20px;
+    }
+    .news .vertical-text h2 {
+        font-size: 25px;
+    }
+    .news .vertical-text h2:before {
+        left: 160px;
+        top: 15px;
+        width: 100px;
+        height: 2px;
+    }
+    .news .news-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .news .news-content h4 {
+        font-size: 25px;
+    }
+    .news-content span:before {
+        width: 80px;
+    }
+    .testimonial h2 {
+        font-size: 25px;
+    }
+    .testimonial h2:after {
+        top: 17px;
+        left: 170px;
+        width: 140px;
+        height: 2px;
+    }
+    .slick-slide img {
+        margin: 0 auto;
+    }
+    .testimonial .slick-nexts.slick-arrow {
+        bottom: 10px;
+    }
+    .testimonial .slick-prevs.slick-arrow {
+        bottom: 10px;
+    }
+    .testimonial .card-body {
+        display: flex;
+        justify-content: center;
+    }
+    .testimonial-info-head p {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .testimonial-info-head p:after {
+        top: 70px;
+    }
+    .testimonial-info-image {
+        top: 80px;
+    }
+    .testimonial-info h3 {
+        font-size: 25px;
+    }
+    .contact-us .contact-head h2 {
+        font-size: 25px;
+    }
+    .contact-head p {
+        padding: 0;
+    }
+    .contact-us {
+        padding: 20px 0;
+    }
+    .footer .home-social h2 {
+        font-size: 25px;
+    }
+    .footer .home-social a i {
+        font-size: 20px;
+        margin: 0 5px;
+    }
+    .news .news-content h4:after {
+        bottom: 0px;
+    }
+    .about-us .about-image {
+        height: 400px;
+        top: 20px;
+        width: 100%;
+    }
+    .vertical-text h3 {
+        font-size: 25px;
+    }
+    .vertical-text h3:after {
+        top: 15px;
+        left: 135px;
+        width: 120px;
+        height: 2px;
+    }
+    .featured-listing h2 {
+        font-size: 25px;
+    }
+    .featured-listing h2:after {
+        width: 100px;
+        top: 18px;
+        left: 210px;
+        height: 2px;
+    }
+    .featured-listing .slick-nexts.slick-arrow {
+        display: none;
+    }
+    .featured-listing .slick-prevs.slick-arrow {
+        display: none;
+    }
+    .news .vertical-text h2 {
+        width: 270px;
+    }
+    .news .news-image {
+        height: 250px;
+    }
+    .news.latest .card-body {
+        padding: 0;
+    }
+    .news .slick-nexts.slick-arrow {
+        bottom: 10px;
+        font-size: 30px;
+        right: 30px;
+    }
+    .news .slick-prevs.slick-arrow {
+        bottom: 10px;
+        font-size: 30px;
+        right: 45px;
+    }
+    .featured-listing .slide-image {
+        height: 300px;
+        width: 100%;
+        overflow: hidden;
+    }
+    .featured-listing .slick-slider {
+        height: auto;
+    }
+    .news .vertical-text h2 {
+        height: 60px;
+    }
+    .featured-listing .slick-nexts.slick-arrow {
+        visibility: hidden;
+    }
+    .featured-listing .slick-prevs.slick-arrow {
+        visibility: hidden;
+    }
+    .featured-listing h2:after {
+        width: 50px;
+    }
+    .footer .footer-nav ul li {
+    margin: 0 5px;
+    }
+    .footer ul li a {
+    font-size: 12px;
+    }
+    /*-------------------------About-us-page-start-----------------------------*/
+    .our-team h2:after {
+        left: 0;
+        top: 30px;
+    }
+    .our-team h2 {
+        font-size: 25px;
+    }
+    .our-approach .approach-info h2 {
+        font-size: 25px;
+    }
+    .our-approach .approach-info h2:after {
+        bottom: -10px;
+    }
+    .story-info-main span h3 {
+        font-size: 20px;
+    }
+    .story-info {
+        padding: 10px;
+    }
+    .subscribe-info span {
+        font-size: 13px;
+        margin-left: 20px;
+    }
+    .subscribe-info .btn {
+        margin-left: 10px;
+        padding: 7px 8px;
+        font-size: 11px;
+    }
+    .subscribe h2 {
+        font-size: 25px;
+    }
+    .subscribe .subscribe-info h2:after {
+        bottom: -10px;
+    }
+    .footer-nav a {
+        font-size: 10px;
+    }
+    .story-image {
+        height: 360px;
+    }
+    .story-image img {
+        object-fit: cover;
+    }
+    .story-info-main p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .our-story {
+        padding: 50px 0px 10px 0;
+    }
+    .our-story .story-head p {
+        font-size: 20px;
+    }
+    .story-head p:after {
+        left: 130px;
+    }
+    .services {
+        padding: 10px 0px;
+    }
+    .our-approach img {
+        height: 310px;
+    }
+    .footer h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .footer h2:after {
+        top: 25px;
+    }
+    .our-story .meet-team span:before {
+        width: 70px;
+    }
+    .story-invert-description p {
+        font-size: 20px;
+    }
+    /*-------------------------blog-page-start-----------------------------*/
+    .blogs .vertical-text h3 {
+        font-size: 30px;
+    }
+    .blogs .vertical-text h3:after {
+        top: 20px;
+        left: 150px;
+        width: 100px;
+    }
+    .blog-image {
+        height: 250px;
+    }
+    .blogs .blog-content h4:after {
+        bottom: 0px;
+    }
+    .blog-image2 {
+        height: 250px;
+    }
+    .blog-content2 {
+        padding-top: 0;
+    }
+    .blog-content2 h4:after {
+        bottom: -10px;
+    }
+    .news-image {
+        height: 250px;
+    }
+    .resident-blog-image2 {
+        height: 250px;
+    }
+    .resident-blogs p {
+        padding: 0;
+    }
+    .resident-blog-image {
+        height: 250px;
+    }
+    .vertical-text h3 {
+        width: 250px;
+    }
+    .blogs {
+        padding-bottom: 0px;
+    }
+    .richest-resident .card span a:before {
+        width: 100px;
+    }
+    .resident-blog-content2 span:before {
+        width: 100px;
+    }
+    .resident-blog-content span:before {
+        width: 100px;
+    }
+    .subscribe .subscribe-info .button-group input {
+        padding: 0;
+    }
+    .subscribe-info .btn {
+        margin-left: 0;
+        font-size: 9px;
+    }
+    .resident-blog-content h4 {
+        font-size: 20px;
+    }
+    .richest-resident h4:after {
+        bottom: 0;
+    }
+    .richest-resident h4 {
+        margin-bottom: 10px;
+    }
+    /*-------------------------blog-description-page-start-----------------------------*/
+    .join-team-blog {
+        width: 100%;
+    }
+    .join-team-blog .btn {
+        width: 100%;
+        margin: 0 auto
+    }
+    .home-blog-para p {
+        margin-bottom: 0;
+    }
+    .blog-catagories h2 {
+        margin-bottom: 10px;
+    }
+    .blog-catagories p {
+        width: 91%;
+    }
+    .subscribe .subscribe-info .button-group input {
+        margin-right: 0px;
+    }
+    .home-blog-info p {
+        margin-bottom: 0;
+    }
+    .home-blog-content p {
+        margin: 0;
+    }
+    .flora-park-head h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    /*-------------------------buy-us-page-start-----------------------------*/
+    .subscribe-info .btn {
+        padding: 7px 14px;
+    }
+    .buying-house h2 {
+        font-size: 18px;
+    }
+    .buying-house span {
+        font-size: 18px;
+    }
+    .buying-house h2:after {
+        left: 60px;
+    }
+    /*-------------------------Contact-us-page-start-----------------------------*/
+    .subscribe-info .btn {
+        padding: 7px 5px;
+    }
+    .background:before {
+        right: 100px;
+        top: 30px;
+    }
+    .contact-us h2 {
+        font-size: 25px;
+    }
+    .contact-us .form-control {
+        height: 40px;
+    }
+    .contact-us textarea#exampleFormControlTextarea1 {
+        height: 80px;
+    }
+    .contact-us .contact-social-icons a i {
+        font-size: 25px;
+        margin: 10px 10px 0px 50px;
+    }
+    /*-------------------------Featured-property-listing-page-start-----------------------------*/
+    .featured-listing-head h3 {
+        font-size: 20px;
+    }
+    .listing-info span {
+        font-size: 16px;
+    }
+    .listing-info h5 {
+        font-size: 13px;
+    }
+    .listing-icons ul li img {
+        height: 18px;
+        margin-right: 2px;
+    }
+    .underline h3 {
+        font-size: 20px;
+    }
+    .underline h3:after {
+        top: 30px;
+        width: 155px;
+    }
+    .location {
+        padding: 10px;
+    }
+    /*-------------------------property-Discription-page-start-----------------------------*/
+    .grand-avenue-head h3 {
+        font-size: 22px;
+    }
+    .grand-avenue-head h3:after {
+        top: 25px;
+        left: 20px;
+    }
+    .grand-avenue-head h3:after {
+        top: 25px;
+        left: 20px;
+    }
+    .property-infield ul li a {
+        font-size: 11px;
+    }
+    .property-infield ul li {
+        margin-right: 0;
+    }
+    .property-infield ul li a img {
+        margin-right: 4px;
+    }
+    .property-infield ul li a img {
+        margin-right: 4px;
+        height: 16px;
+    }
+    .property-infield ul li {
+        margin-right: 10px;
+    }
+    .add-favourite {
+        justify-content: start;
+    }
+    .property-logo {
+        top: 37%;
+        left: 43%;
+    }
+    .property-logo img {
+        height: 50px;
+    }
+    .property-contact-card i {
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+    }
+    .our-team .card h5 {
+        font-size: 10px;
+    }
+    .our-team .card .card-body p {
+        font-size: 10px;
+    }
+    .subscribe-info span {
+        font-size: 10px;
+    }
+    .join-head h2 {
+        font-size: 18px;
+    }
+    .join-head {
+        min-height: 100px;
+    }
+    .join-our-team .form-control {
+        height: 45px;
+    }
+    .join-our-team h3 {
+        padding: 20px 0px 10px 0px;
+        font-size: 18px;
+    }
+    .property-contact-box span {
+        font-size: 17px;
+    }
+    /*-------------------------sell-page-start-----------------------------*/
+    .sell-your-home-head p {
+        font-size: 20px;
+    }
+    .sell-your-home-head p span {
+        font-size: 20px;
+    }
+    .sell-your-home-head p:after {
+        bottom: 10px;
+        left: 5px;
+    }
+    .sell-your-home-head {
+        padding-top: 20px;
+    }
+    .sell-your-home-head-info p {
+        padding: 0px 0px;
+    }
+    .sell-your-home-head h2 {
+        font-size: 25px;
+    }
+    .sell-your-home-head span {
+        font-size: 25px;
+    }
+    .sell-home-slicer .card {
+        padding: 19px 30px;
+        margin: 12px 0px;
+    }
+    .head {
+        padding: 20px 0px;
+    }
+    .navbar-brand img {
+        width: 120px;
+    }
+    .sell-your-home-head-info p {
+        font-weight: 600;
+    }
+    .banner {
+        height: 60vh;
+    }
+    /*-------------------------Testimonial-page-start-----------------------------*/
+    .testimonial-slicer .card {
+        padding: 20px;
+    }
+    .invert-client img {
+        height: 50px;
+    }
+    .testimonial-slicer .card .image {
+        width: 100px;
+    }
+    .testimonial-slicer .card .card-info p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    /*-------------------------Team-page-start-----------------------------*/
+    .team-banner {
+        margin-top: 0;
+    }
+    .our-team-members .vertical-text h3 {
+        width: 260px;
+    }
+    .our-team-members .vertical-text h3:after {
+        width: 80px;
+    }
+    .properly-maintained-image {
+        height: 300px;
+    }
+    .properly-maintained-info h4 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .properly-maintained-info span h3 {
+        font-size: 20px;
+    }
+    .properly-maintained-info span p {
+        font-size: 17px;
+    }
+    .testimonial h2:after {
+        top: 17px;
+        left: 170px;
+        width: 100px;
+        height: 2px;
+    }
+    .our-team-members .card .member-image {
+        height: 300px;
+        width: 260px;
+        margin: 0 auto;
+    }
+}
